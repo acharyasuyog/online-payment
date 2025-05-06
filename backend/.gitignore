@@ -1,0 +1,11 @@
+.env
+node_modules
+dist
+coverage
+.vscode
+*.log
+*.env
+package-lock.json
+*.tgz
+*.zip
+*.tar.gz
